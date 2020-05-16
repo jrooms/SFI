@@ -20,6 +20,7 @@ Email : <wanted0301@gmail.com>
   > #### Front-end    
   >  * Bootstrap  
   >  * Javascript  
+  >  * Jquery
   >  * HTML/CSS
   > #### ETC    
   >  * Ubuntu  
