@@ -47,6 +47,36 @@ Email : <wanted0301@gmail.com>
   > * 시연영상    
   > * about    
   > * * * 
+  > #### 관리자 페이지 - 상품관리 
+  > ![admin](./Image/admin_page.JPG)
+  > * 상품별 추가, 수정, 삭제 구현    
+  > * mariaDB 데이터 저장    
+  > * 페이징 처리    
+  > * * *
+  > #### 관리자 페이지 - 회원관리
+  > ![user_list](./Image/admin_user_list.JPG)
+  > * 회원 리스트 확인    
+  > * * *
+  > #### 관리자 페이지 - 스냅사진 관리
+  > ![snap_list](./Image/admin_snap_list.JPG)
+  > * 스냅사진 추가, 수정, 삭제 구현    
+  > * mariaDB 데이터 저장    
+  > * 페이징 처리    
+  > * * *
+  > #### 관리자 페이지 - 구매요청 목록 
+  > ![order_list](./Image/admin_order_list.JPG)
+  > * 출고관리    
+  > * 구매요청 상세정보 확인    
+  > * mariaDB 데이터 저장    
+  > * 페이징 처리 
+  > * * *
+  > ### 관리자 페이지 - 문의사항 목록 
+  > ![comment_list](./Image/admin_comment_list.JPG)
+  > * 댓글에 답변하기 구현 
+  > * 답변 추가, 수정, 삭제 구현 
+  > * mariaDB 데이터 저장    
+  > * 페이징 처리 
+  > * * *
   > #### 스토어 
   > ![store](./Image/store.JPG)
   > * wear, shoes, acc 구분    
