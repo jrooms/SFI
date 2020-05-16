@@ -37,6 +37,7 @@ Email : <wanted0301@gmail.com>
   > ![login](./Image/login.JPG)
   > * Cookie -> 아이디 저장
   > * HTTP - GET, POST 통신
+  > * 관리자, 게스트, 회원으로 구분 
   > * SESSION 로그인 구현 
   > #### 메인 페이지
   > ![login](./Image/main.JPG)
@@ -52,3 +53,15 @@ Email : <wanted0301@gmail.com>
   > * 베너광고변경(admin)    
   > * 아이템별 페이징 처리    
   > * * *
+  > ### 스토어 디테일 
+  > ![login](./Image/store_detail.JPG)
+  > * 관리자, 회원, 게스트 구분 
+  > * 관리자는 열람만 가능 
+  > * Cookie 를 활용한 장바구니 추가 (회원, 게스트)
+  > * 문의하기 기능 (회원)
+  > * * *
+  > ### 스트릿 스냅사진 , 디테일 
+  > ![login](./Image/street_snap.JPG)
+  > ![login](./Image/street_snap_detail.JPG)
+  > * 페이징 처리 
+  
