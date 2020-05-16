@@ -2,7 +2,7 @@
 # PORTFOLIO 1 
 ## SFI - 스포츠 패션 아이템 인터넷 쇼핑몰 
 
-[제작기간] 5주     
+[제작기간] 4주     
 [프로젝트 내용] 쇼핑몰 웹사이트 구현    
 [프로젝트 인원] 1명    
 
@@ -38,3 +38,17 @@ Email : <wanted0301@gmail.com>
   > * Cookie -> 아이디 저장
   > * HTTP - GET, POST 통신
   > * SESSION 로그인 구현 
+  > #### 메인 페이지
+  > ![login](./Image/main.JPG)
+  > * 관리페이지(admin) / 마이페이지(guest,member)    
+  > * 스토어    
+  > * 스냅사진    
+  > * 시연영상    
+  > * about    
+  > * * * 
+  > #### 스토어 
+  > ![login](./Image/store.JPG)
+  > * wear, shoes, acc 구분    
+  > * 베너광고변경(admin)    
+  > * 아이템별 페이징 처리    
+  > * * *
