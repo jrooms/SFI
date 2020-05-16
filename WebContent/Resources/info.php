@@ -1,8 +1,7 @@
-<?php 
-session_start();	
-$guestUser = true;
-$admin = "admin@admin.com";
-$adminUser = false;
+<?php
+include('server_admin.php');
+include('server_db.php');
+session_start();
 // 현재 로그인한 회원이 있으면
 if(isset($_SESSION['email'])){
 	$guestUser = false;
@@ -87,7 +86,11 @@ style="cursor:pointer">Street Fashion</a>
 
 <!-- Team -->
 <section class="bg-light" id="info">
-info page
+  <div class="container">
+		<video controls autoplay loop>
+   		<source src="video/SFI.mp4" type="video/mp4">
+	 </video>
+</div>
 </section>
 
 <!-- Footer -->
