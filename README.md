@@ -98,7 +98,7 @@ Email : <wanted0301@gmail.com>
   > ### 마이페이지 장바구니
   > ![cart](./Image/cart.JPG)
   > * Cookie 를 활요한 장바구니 구현    
-  > * 추가, 삭제, 전체삭제   
+  > * 추가, 삭제, 전체삭제    
   > * * *
   > ### 마이페이지 나의문의하기 목록 
   > ![comment](./Image/comment.JPG)  
