@@ -31,4 +31,10 @@ Email : <wanted0301@gmail.com>
   > ![register](./Image/register.JPG)
   > * Email 중복체크    
   > * MD5 비밀번호 암호화    
-  > * HTTP - POST 통신    
+  > * HTTP - GET, POST 통신    
+  > * * *
+  > #### 로그인 
+  > ![login](./Image/login.JPG)
+  > * Cookie -> 아이디 저장
+  > * HTTP - GET, POST 통신
+  > * SESSION 로그인 구현 
