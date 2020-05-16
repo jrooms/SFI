@@ -80,4 +80,6 @@ Email : <wanted0301@gmail.com>
   > * * *
   > ### 마이페이지 결제완료 목록
   > ![payment_lsit](./Image/payment_list.JPG)
+  > ![payment_confirm](./Image/payment_confirm.JPG)
+  > * 배송정보 확인
   > * * *
