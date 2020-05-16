@@ -12,18 +12,22 @@
 Email : <wanted0301@gmail.com>    
 * * *
 ### SKILL
-  > ##### Back-end    
+  > #### Back-end    
   >  * Apache2  
   >  * PHP  
-  > ##### Database   
+  > #### Database   
   >  * Mysql(MariaDB)
-  > ##### Front-end    
+  > #### Front-end    
   >  * Bootstrap  
   >  * Javascript  
   >  * HTML/CSS
-  > ##### ETC    
+  > #### ETC    
   >  * Ubuntu  
   >  * PHPMyAdmin  
   >  * Iwinv  
 * * *
-### 
+### 페이지 세부 기능 
+  > #### 회원가입 
+  > 
+  
+
