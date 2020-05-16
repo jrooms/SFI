@@ -11,6 +11,15 @@
 블로그 : <https://jroomstudio.tistory.com/>    
 Email : <wanted0301@gmail.com>    
 * * *
-## SKILL
-
-
+### SKILL
+  > Back-end
+  >  *Apache2  *PHP  
+* * *
+  > Database
+  >  *Mysql(MariaDB)
+* * *
+  > Front-end
+  >  *Bootstrap  *Javascript  *HTML/CSS
+* * *
+  > ETC 
+  >  *Ubuntu  *PHPMyAdmin  *Iwinv  
