@@ -29,5 +29,6 @@ Email : <wanted0301@gmail.com>
 ### 페이지 세부 기능 
   > #### 회원가입 
   > ![register](./Image/register.JPG)
-  
-
+  > * Email 중복체크    
+  > * MD5 비밀번호 암호화    
+  > * HTTP - POST 통신    
