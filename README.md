@@ -1,6 +1,6 @@
 * * *
 # PORTFOLIO 1 
-## SFI - 스포츠 패션 아이템 인터넷 쇼핑몰 
+## SFI - 인터넷 쇼핑몰 
 
 [제작기간] 4주     
 [프로젝트 내용] 쇼핑몰 웹사이트 구현    
@@ -8,6 +8,7 @@
 
 웹사이트 : <http://115.68.221.104/SFI/WebContent/Resources/index.php>    
 소스코드 : <https://github.com/ll0301/SFI/tree/master/WebContent/Resources>    
+시연영상 : <http://115.68.221.104/SFI/WebContent/Resources/info.php#info>    
 블로그 : <https://jroomstudio.tistory.com/>    
 Email : <wanted0301@gmail.com>    
 * * *
@@ -20,6 +21,7 @@ Email : <wanted0301@gmail.com>
   > #### Front-end    
   >  * Bootstrap  
   >  * Javascript  
+  >  * Jquery
   >  * HTML/CSS
   > #### ETC    
   >  * Ubuntu  
@@ -27,19 +29,20 @@ Email : <wanted0301@gmail.com>
   >  * Iwinv  
 * * *
 ### 페이지 세부 기능 
-  > #### 회원가입 
+  > ### 회원가입 
   > ![register](./Image/register.JPG)
   > * Email 중복체크    
   > * MD5 비밀번호 암호화    
   > * HTTP - GET, POST 통신    
   > * * *
-  > #### 로그인 
+  > ### 로그인 
   > ![login](./Image/login.JPG)
   > * Cookie -> 아이디 저장
   > * HTTP - GET, POST 통신
   > * 관리자, 게스트, 회원으로 구분 
   > * SESSION 로그인 구현 
-  > #### 메인 페이지
+  > * * *
+  > ### 메인 페이지
   > ![main](./Image/main.JPG)
   > * 관리페이지(admin) / 마이페이지(guest,member)    
   > * 스토어    
@@ -47,23 +50,23 @@ Email : <wanted0301@gmail.com>
   > * INFO      
   > * about    
   > * * * 
-  > #### 관리자 페이지 - 상품관리 
+  > ### 관리자 페이지 - 상품관리 
   > ![admin](./Image/admin_page.JPG)
   > * 상품별 추가, 수정, 삭제 구현    
   > * mariaDB 데이터 저장    
   > * 페이징 처리    
   > * * *
-  > #### 관리자 페이지 - 회원관리
+  > ### 관리자 페이지 - 회원관리
   > ![user_list](./Image/admin_user_list.JPG)
   > * 회원 리스트 확인    
   > * * *
-  > #### 관리자 페이지 - 스냅사진 관리
+  > ### 관리자 페이지 - 스냅사진 관리
   > ![snap_list](./Image/admin_snap_list.JPG)
   > * 스냅사진 추가, 수정, 삭제 구현    
   > * mariaDB 데이터 저장    
   > * 페이징 처리    
   > * * *
-  > #### 관리자 페이지 - 구매요청 목록 
+  > ### 관리자 페이지 - 구매요청 목록 
   > ![order_list](./Image/admin_order_list.JPG)
   > * 출고관리    
   > * 구매요청 상세정보 확인    
@@ -77,7 +80,7 @@ Email : <wanted0301@gmail.com>
   > * mariaDB 데이터 저장    
   > * 페이징 처리 
   > * * *
-  > #### 스토어 
+  > ### 스토어 
   > ![store](./Image/store.JPG)
   > * wear, shoes, acc 구분    
   > * 베너광고변경(admin)    
@@ -98,7 +101,7 @@ Email : <wanted0301@gmail.com>
   > ### 마이페이지 장바구니
   > ![cart](./Image/cart.JPG)
   > * Cookie 를 활요한 장바구니 구현    
-  > * 추가, 삭제, 전체삭제   
+  > * 추가, 삭제, 전체삭제    
   > * * *
   > ### 마이페이지 나의문의하기 목록 
   > ![comment](./Image/comment.JPG)  
