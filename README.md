@@ -13,12 +13,12 @@ Email : <wanted0301@gmail.com>
 * * *
 ### SKILL
   > ##### Back-end    
-  >  *Apache2  *PHP  
+  >  * Apache2  * PHP  
   > ##### Database   
-  >  *Mysql(MariaDB)
+  >  * Mysql(MariaDB)
   > ##### Front-end    
-  >  *Bootstrap  *Javascript  *HTML/CSS
+  >  * Bootstrap  * Javascript  * HTML/CSS
   > ##### ETC    
-  >  *Ubuntu  *PHPMyAdmin  *Iwinv  
+  >  * Ubuntu  * PHPMyAdmin  * Iwinv  
 * * *
 ### 
