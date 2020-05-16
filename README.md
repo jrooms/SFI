@@ -28,6 +28,6 @@ Email : <wanted0301@gmail.com>
 * * *
 ### 페이지 세부 기능 
   > #### 회원가입 
-  > ![register](./Image/register.jpg)
+  > ![register](./Image/register.JPG)
   
 
