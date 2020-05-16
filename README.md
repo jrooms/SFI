@@ -40,7 +40,7 @@ Email : <wanted0301@gmail.com>
   > * 관리자, 게스트, 회원으로 구분 
   > * SESSION 로그인 구현 
   > #### 메인 페이지
-  > ![login](./Image/main.JPG)
+  > ![main](./Image/main.JPG)
   > * 관리페이지(admin) / 마이페이지(guest,member)    
   > * 스토어    
   > * 스냅사진    
@@ -48,20 +48,36 @@ Email : <wanted0301@gmail.com>
   > * about    
   > * * * 
   > #### 스토어 
-  > ![login](./Image/store.JPG)
+  > ![store](./Image/store.JPG)
   > * wear, shoes, acc 구분    
   > * 베너광고변경(admin)    
   > * 아이템별 페이징 처리    
   > * * *
   > ### 스토어 디테일 
-  > ![login](./Image/store_detail.JPG)
+  > ![store_detail](./Image/store_detail.JPG)
   > * 관리자, 회원, 게스트 구분 
   > * 관리자는 열람만 가능 
-  > * Cookie 를 활용한 장바구니 추가 (회원, 게스트)
+  > * 장바구니 추가 (회원, 게스트)
   > * 문의하기 기능 (회원)
   > * * *
   > ### 스트릿 스냅사진 , 디테일 
-  > ![login](./Image/street_snap.JPG)
-  > ![login](./Image/street_snap_detail.JPG)
+  > ![street_snap](./Image/street_snap.JPG)
+  > ![street_snap_detail](./Image/street_snap_detail.JPG)
   > * 페이징 처리 
-  
+  > * * *
+  > ### 마이페이지 장바구니
+  > ![cart](./Image/cart.JPG)
+  > * Cookie 를 활요한 장바구니 구현    
+  > * 추가, 삭제, 전체삭제   
+  > * * *
+  > ### 마이페이지 나의문의하기 목록 
+  > ![comment](./Image/comment.JPG)  
+  > * 삭제 
+  > * * *
+  > ### 마이페이지 구매하기
+  > ![payment](./Image/payment.JPG) 
+  > * 카카오톡 결제 
+  > * * *
+  > ### 마이페이지 결제완료 목록
+  > ![payment_lsit](./Image/payment_list.JPG)
+  > * * *
