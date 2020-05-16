@@ -44,7 +44,7 @@ Email : <wanted0301@gmail.com>
   > * 관리페이지(admin) / 마이페이지(guest,member)    
   > * 스토어    
   > * 스냅사진    
-  > * 시연영상    
+  > * INFO      
   > * about    
   > * * * 
   > #### 관리자 페이지 - 상품관리 
