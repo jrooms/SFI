@@ -41,6 +41,7 @@ Email : <wanted0301@gmail.com>
   > * HTTP - GET, POST 통신
   > * 관리자, 게스트, 회원으로 구분 
   > * SESSION 로그인 구현 
+  > * * *
   > ### 메인 페이지
   > ![main](./Image/main.JPG)
   > * 관리페이지(admin) / 마이페이지(guest,member)    
