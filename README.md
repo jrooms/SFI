@@ -1,5 +1,5 @@
 * * *
-# PORTFOLIO 1 
+# PORTFOLIO 2 
 ## SFI - 인터넷 쇼핑몰 
 
 [제작기간] 4주     
