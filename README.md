@@ -8,6 +8,7 @@
 
 웹사이트 : <http://115.68.221.104/SFI/WebContent/Resources/index.php>    
 소스코드 : <https://github.com/ll0301/SFI/tree/master/WebContent/Resources>    
+시연영샹 : <http://115.68.221.104/SFI/WebContent/Resources/info.php#info>
 블로그 : <https://jroomstudio.tistory.com/>    
 Email : <wanted0301@gmail.com>    
 * * *
