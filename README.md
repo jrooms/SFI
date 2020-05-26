@@ -8,23 +8,19 @@
 시연영상 : <http://115.68.221.104/SFI/WebContent/Resources/info.php#info>    
 소스코드 : <https://github.com/ll0301/SFI/tree/master/WebContent/Resources>    
 블로그 : <https://jroomstudio.tistory.com/>    
-Email : <wanted0301@gmail.com>    
+Email : <jhhh171224@gmail.com>    
 * * *
 ### SKILL
-  > #### Back-end    
+  > #### Back-end
+  >  * CentOS
   >  * Apache2  
   >  * PHP  
-  > #### Database   
   >  * Mysql(MariaDB)
   > #### Front-end    
   >  * Bootstrap  
   >  * Javascript  
   >  * Jquery
   >  * HTML/CSS
-  > #### ETC    
-  >  * Ubuntu  
-  >  * PHPMyAdmin  
-  >  * Iwinv  
 * * *
 ### 페이지 세부 기능 
   > ### 회원가입 
