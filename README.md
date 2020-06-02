@@ -9,16 +9,13 @@
 Email : <jhhh171224@gmail.com>    
 * * *
 ### SKILL
-  > #### Back-end
-  >  * CentOS
-  >  * Apache2  
-  >  * PHP  
-  >  * Mysql(MariaDB)
-  > #### Front-end    
-  >  * Bootstrap  
-  >  * Javascript  
-  >  * Jquery
-  >  * HTML/CSS
+  >  * Server : CentOS, Apache2, PHP, MySQL
+  >  * Front-end : Bootstrap, JavaScript, Jquery 
+  >  * 회원가입 , 로그인 (MySQL + PHP) 
+  >  * COOKIE를 활용한 아이디 저장 및 장바구니
+  >  * 관리자페이지 ( 상품등록, 스냅사진 등록,  댓글등록, 회원관리, 출고관리) 
+  >  * 데이터 페이징 처리  
+  >  * 카카오 결제
 * * *
 ### 페이지 세부 기능 
   > ### 회원가입 
