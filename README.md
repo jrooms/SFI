@@ -4,10 +4,6 @@
 [프로젝트 내용] 쇼핑몰 웹사이트 구현    
 [프로젝트 인원] 1명    
 
-웹페이지 : <http://115.68.221.104/sfi/index.php>   
-소스코드 : <https://github.com/ll0301/SFI/tree/master/WebContent/Resources>    
-블로그 : <https://jroomstudio.tistory.com/>    
-Email : <jhhh171224@gmail.com>    
 * * *
 ### SKILL
   >  * Server : CentOS, Apache2, PHP, MySQL
